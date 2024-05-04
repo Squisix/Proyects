@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1614745121 source:c:\users\acer\estructura de datos\linkeddataqueue\linkeddataqueue.cpp
+
+1613786143 source:c:\users\acer\estructura de datos\linkeddataqueue\matriz.cpp
+	"Matriz.h"
+	<iostream>
+	<cmath>
+
+1613093345 c:\users\acer\estructura de datos\linkeddataqueue\matriz.h
+	<stdexcept>
+
+1614754544 source:c:\users\acer\estructura de datos\linkeddataqueue\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	"LinkedDataQueue.h"
+	"Matriz.h"
+
+1614751159 c:\users\acer\estructura de datos\linkeddataqueue\linkeddataqueue.h
+	"LinkedDataQueue.tpp"
+
+1614909277 c:\users\acer\estructura de datos\linkeddataqueue\linkeddataqueue.tpp
+	<iostream>
+

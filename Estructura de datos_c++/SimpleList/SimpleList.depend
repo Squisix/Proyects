@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1615272797 source:c:\users\acer\estructura de datos\simplelist\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	"SimpleList.h"
+	"Matriz.h"
+
+1615256942 c:\users\acer\estructura de datos\simplelist\simplelist.h
+	"SimpleList.tpp"
+
+1615272488 c:\users\acer\estructura de datos\simplelist\simplelist.tpp
+	<iostream>
+
+1613786143 source:c:\users\acer\estructura de datos\simplelist\matriz.cpp
+	"Matriz.h"
+	<iostream>
+	<cmath>
+
+1613093345 c:\users\acer\estructura de datos\simplelist\matriz.h
+	<stdexcept>
+

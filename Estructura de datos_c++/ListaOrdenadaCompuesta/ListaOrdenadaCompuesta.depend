@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1616264929 source:c:\users\acer\estructura de datos\listaordenadacompuesta\compositeorderedlist.cpp
+
+1616284818 source:c:\users\acer\estructura de datos\listaordenadacompuesta\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	"CompositeOrderedList.h"
+	"Persona.h"
+	"Utileria.h"
+	<windows.h>
+
+1616284808 source:c:\users\acer\estructura de datos\listaordenadacompuesta\persona.cpp
+	<iostream>
+	<ctime>
+	"Persona.h"
+	<cstring>
+
+1616284808 c:\users\acer\estructura de datos\listaordenadacompuesta\persona.h
+
+1616274587 c:\users\acer\estructura de datos\listaordenadacompuesta\compositeorderedlist.h
+	"DoubleLinkedList.h"
+	"CompositeOrderedList.tpp"
+
+1616274587 c:\users\acer\estructura de datos\listaordenadacompuesta\doublelinkedlist.h
+	"DoubleLinkedList.tpp"
+
+1616274587 c:\users\acer\estructura de datos\listaordenadacompuesta\doublelinkedlist.tpp
+	<iostream>
+
+1616274587 c:\users\acer\estructura de datos\listaordenadacompuesta\compositeorderedlist.tpp
+
+1615080977 c:\users\acer\estructura de datos\listaordenadacompuesta\utileria.h
+	"Utileria.tpp"
+
+1615080977 c:\users\acer\estructura de datos\listaordenadacompuesta\utileria.tpp
+	<iostream>
+	<limits>
+	<cstdlib>
+

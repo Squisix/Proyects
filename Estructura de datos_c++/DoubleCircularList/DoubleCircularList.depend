@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1616639776 source:c:\users\acer\estructura de datos\doublecircularlist\doublecircularlist.cpp
+
+1616796883 source:c:\users\acer\estructura de datos\doublecircularlist\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	"DoubleCircularList.h"
+	"Persona.h"
+	"Utileria.h"
+	<windows.h>
+
+1616284808 source:c:\users\acer\estructura de datos\doublecircularlist\persona.cpp
+	<iostream>
+	<ctime>
+	"Persona.h"
+	<cstring>
+
+1616284808 c:\users\acer\estructura de datos\doublecircularlist\persona.h
+
+1616795422 c:\users\acer\estructura de datos\doublecircularlist\doublecircularlist.h
+	"DoubleCircularList.tpp"
+
+1616799944 c:\users\acer\estructura de datos\doublecircularlist\doublecircularlist.tpp
+
+1615080977 c:\users\acer\estructura de datos\doublecircularlist\utileria.h
+	"Utileria.tpp"
+
+1615080977 c:\users\acer\estructura de datos\doublecircularlist\utileria.tpp
+	<iostream>
+	<limits>
+	<cstdlib>
+

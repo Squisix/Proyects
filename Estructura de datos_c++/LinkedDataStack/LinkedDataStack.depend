@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1613929366 source:c:\users\acer\estructura de datos\linkeddatastack\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	"LinkedDataStack.h"
+	"Matriz.h"
+
+1613969689 c:\users\acer\estructura de datos\linkeddatastack\linkeddatastack.h
+	"LinkedDataStack.tpp"
+
+1613929366 c:\users\acer\estructura de datos\linkeddatastack\linkeddatastack.tpp
+	<iostream>
+
+1613093345 c:\users\acer\estructura de datos\linkeddatastack\matriz.h
+	<stdexcept>
+
+1613786143 source:c:\users\acer\estructura de datos\linkeddatastack\matriz.cpp
+	"Matriz.h"
+	<iostream>
+	<cmath>
+

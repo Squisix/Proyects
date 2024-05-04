@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1615633448 source:c:\users\acer\estructura de datos\doublelinkedlist\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	"DoubleLinkedList.h"
+
+1615630572 c:\users\acer\estructura de datos\doublelinkedlist\doublelinkedlist.h
+	"DoubleLinkedList.tpp"
+
+1615633532 c:\users\acer\estructura de datos\doublelinkedlist\doublelinkedlist.tpp
+	<iostream>
+
+1615637122 source:c:\users\acer\estructura de datos\doublelinkedlist\persona.cpp
+	<iostream>
+	<ctime>
+	"Persona.h"
+
+1615093937 c:\users\acer\estructura de datos\doublelinkedlist\persona.h
+

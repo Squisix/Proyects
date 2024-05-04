@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1619145549 source:c:\users\acer\estructura de datos\arbolavl\main.cpp
+	<iostream>
+	"ArbolAVL.h"
+	"Utileria.h"
+	"windows.h"
+
+1619146062 c:\users\acer\estructura de datos\arbolavl\arbolavl.h
+	<iostream>
+	"LinkedDataQueue.h"
+	"ArbolAVL.tpp"
+
+1615093937 c:\users\acer\estructura de datos\arbolavl\linkeddataqueue.h
+	"LinkedDataQueue.tpp"
+
+1616117010 c:\users\acer\estructura de datos\arbolavl\linkeddataqueue.tpp
+	<iostream>
+
+1619144598 c:\users\acer\estructura de datos\arbolavl\arbolavl.tpp
+
+1615080977 c:\users\acer\estructura de datos\arbolavl\utileria.h
+	"Utileria.tpp"
+
+1615080977 c:\users\acer\estructura de datos\arbolavl\utileria.tpp
+	<iostream>
+	<limits>
+	<cstdlib>
+

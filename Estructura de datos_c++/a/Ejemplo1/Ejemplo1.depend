@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1612504967 source:c:\users\acer\estructura de datos\a\ejemplo1\main.cpp
+	<iostream>
+	"Vector.h"
+
+1612387154 c:\users\acer\estructura de datos\a\ejemplo1\vector.h
+	<stdexcept>
+
+1612387735 source:c:\users\acer\estructura de datos\a\ejemplo1\vector.cpp
+	"Vector.h"
+	<iostream>
+	<cmath>
+

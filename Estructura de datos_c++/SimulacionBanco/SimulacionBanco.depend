@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1615093972 source:c:\users\acer\estructura de datos\simulacionbanco\banco.cpp
+	<iostream>
+	<ctime>
+	<iomanip>
+	"Banco.h"
+
+1615093937 source:c:\users\acer\estructura de datos\simulacionbanco\main.cpp
+	<iostream>
+	"Banco.h"
+	<windows.h>
+	"Utileria.h"
+
+1615093937 source:c:\users\acer\estructura de datos\simulacionbanco\persona.cpp
+	<iostream>
+	<ctime>
+	"Persona.h"
+
+1615093937 c:\users\acer\estructura de datos\simulacionbanco\persona.h
+
+1615093937 c:\users\acer\estructura de datos\simulacionbanco\banco.h
+	<iostream>
+	"Persona.h"
+	"LinkedDataQueue.h"
+
+1615093937 c:\users\acer\estructura de datos\simulacionbanco\linkeddataqueue.h
+	"LinkedDataQueue.tpp"
+
+1615072129 c:\users\acer\estructura de datos\simulacionbanco\linkeddataqueue.tpp
+	<iostream>
+
+1615080977 c:\users\acer\estructura de datos\simulacionbanco\utileria.h
+	"Utileria.tpp"
+
+1615080977 c:\users\acer\estructura de datos\simulacionbanco\utileria.tpp
+	<iostream>
+	<limits>
+	<cstdlib>
+

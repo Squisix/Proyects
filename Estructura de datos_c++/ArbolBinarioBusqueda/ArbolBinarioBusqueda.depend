@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1618465309 source:c:\users\acer\estructura de datos\arbolbinariobusqueda\main.cpp
+	<iostream>
+	"ABB.h"
+	"Utileria.h"
+	"windows.h"
+
+1618465310 c:\users\acer\estructura de datos\arbolbinariobusqueda\abb.h
+	<iostream>
+	"LinkedDataQueue.h"
+	"ABB.tpp"
+
+1615093937 c:\users\acer\estructura de datos\arbolbinariobusqueda\linkeddataqueue.h
+	"LinkedDataQueue.tpp"
+
+1616117010 c:\users\acer\estructura de datos\arbolbinariobusqueda\linkeddataqueue.tpp
+	<iostream>
+
+1619033937 c:\users\acer\estructura de datos\arbolbinariobusqueda\abb.tpp
+
+1615080977 c:\users\acer\estructura de datos\arbolbinariobusqueda\utileria.h
+	"Utileria.tpp"
+
+1615080977 c:\users\acer\estructura de datos\arbolbinariobusqueda\utileria.tpp
+	<iostream>
+	<limits>
+	<cstdlib>
+

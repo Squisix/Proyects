@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1617752738 source:c:\users\acer\estructura de datos\grafica\grafica.cpp
+
+1620259137 source:c:\users\acer\estructura de datos\grafica\main.cpp
+	<iostream>
+	"Grafica.h"
+	"Utileria.h"
+	"windows.h"
+	<fstream>
+
+1620256638 c:\users\acer\estructura de datos\grafica\grafica.h
+	"LinkedDataQueue.h"
+	"LinkedDataStack.h"
+	"Grafica.tpp"
+
+1620259394 c:\users\acer\estructura de datos\grafica\grafica.tpp
+	<iostream>
+
+1615080977 c:\users\acer\estructura de datos\grafica\utileria.h
+	"Utileria.tpp"
+
+1615080977 c:\users\acer\estructura de datos\grafica\utileria.tpp
+	<iostream>
+	<limits>
+	<cstdlib>
+
+1615093937 c:\users\acer\estructura de datos\grafica\linkeddataqueue.h
+	"LinkedDataQueue.tpp"
+
+1615072129 c:\users\acer\estructura de datos\grafica\linkeddataqueue.tpp
+	<iostream>
+
+1613969689 c:\users\acer\estructura de datos\grafica\linkeddatastack.h
+	"LinkedDataStack.tpp"
+
+1613929366 c:\users\acer\estructura de datos\grafica\linkeddatastack.tpp
+	<iostream>
+

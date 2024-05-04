@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1614554821 source:c:\users\acer\estructura de datos\expresion\main.cpp
+	<iostream>
+	"Expresion.h"
+
+1614571239 c:\users\acer\estructura de datos\expresion\expresion.h
+	"LinkedDataStack.h"
+
+1613969689 c:\users\acer\estructura de datos\expresion\linkeddatastack.h
+	"LinkedDataStack.tpp"
+
+1613929366 c:\users\acer\estructura de datos\expresion\linkeddatastack.tpp
+	<iostream>
+
+1614574455 source:c:\users\acer\estructura de datos\expresion\expresion.cpp
+	<string.h>
+	<iostream>
+	<ctype.h>
+	"Expresion.h"
+

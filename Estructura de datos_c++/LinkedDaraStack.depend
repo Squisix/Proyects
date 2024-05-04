@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1613768217 source:c:\users\acer\estructura de datos\linkeddara stack\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	"LinkedDataStack.h"
+
+1613594145 c:\users\acer\estructura de datos\linkeddara stack\linkeddatastack.h
+	"LinkedDataStack.tpp"
+
+1613682194 c:\users\acer\estructura de datos\linkeddara stack\linkeddatastack.tpp
+	<iostream>
+

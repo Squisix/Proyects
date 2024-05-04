@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1612990650 source:c:\users\acer\estructura de datos\pila\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	"Stack.h"
+
+1612991489 c:\users\acer\estructura de datos\pila\stack.h
+	<stdexcept>
+	"Stack.tpp"
+
+1612936552 source:c:\users\acer\estructura de datos\pila\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1612991489 c:\users\acer\estructura de datos\pila\stack.tpp
+	<iostream>
+

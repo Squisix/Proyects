@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1613074391 source:c:\users\acer\estructura de datos\resizablestack\resizablestack.cpp
+
+1613104429 source:c:\users\acer\estructura de datos\resizablestack\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	"ResizableStack.h"
+	"Matriz.h"
+
+1613105053 c:\users\acer\estructura de datos\resizablestack\resizablestack.h
+	<stdexcept>
+	"ResizableStack.tpp"
+
+1613104614 c:\users\acer\estructura de datos\resizablestack\resizablestack.tpp
+	<iostream>
+
+1613093345 source:c:\users\acer\estructura de datos\resizablestack\matriz.cpp
+	"Matriz.h"
+	<iostream>
+	<cmath>
+
+1613093345 c:\users\acer\estructura de datos\resizablestack\matriz.h
+	<stdexcept>
+

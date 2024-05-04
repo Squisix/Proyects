@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1619556299 source:c:\users\acer\estructura de datos\heap\heap.cpp
+
+1619586262 source:c:\users\acer\estructura de datos\heap\main.cpp
+	<iostream>
+	"Heap.h"
+	"Utileria.h"
+	"windows.h"
+
+1619585833 c:\users\acer\estructura de datos\heap\heap.h
+	<stdexcept>
+	"Heap.tpp"
+
+1619587112 c:\users\acer\estructura de datos\heap\heap.tpp
+	<iostream>
+
+1615080977 c:\users\acer\estructura de datos\heap\utileria.h
+	"Utileria.tpp"
+
+1615080977 c:\users\acer\estructura de datos\heap\utileria.tpp
+	<iostream>
+	<limits>
+	<cstdlib>
+

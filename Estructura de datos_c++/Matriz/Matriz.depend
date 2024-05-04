@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1613788023 source:c:\users\acer\estructura de datos\matriz\main.cpp
+	<iostream>
+	"Matriz.h"
+
+1612591806 c:\users\acer\estructura de datos\matriz\matriz.h
+	<stdexcept>
+
+1613788174 source:c:\users\acer\estructura de datos\matriz\matriz.cpp
+	"Matriz.h"
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1620358513 source:c:\users\acer\estructura de datos\arbolb\arbolb.cpp
+
+1621332583 source:c:\users\acer\estructura de datos\arbolb\main.cpp
+	<iostream>
+	"ArbolB.h"
+	"Utileria.h"
+	"windows.h"
+
+1621226189 c:\users\acer\estructura de datos\arbolb\arbolb.h
+	"ArbolB.tpp"
+
+1621334552 c:\users\acer\estructura de datos\arbolb\arbolb.tpp
+
+1615080977 c:\users\acer\estructura de datos\arbolb\utileria.h
+	"Utileria.tpp"
+
+1615080977 c:\users\acer\estructura de datos\arbolb\utileria.tpp
+	<iostream>
+	<limits>
+	<cstdlib>
+
